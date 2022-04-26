@@ -1,0 +1,13 @@
+<configuration>
+<!--    <property>-->
+<!--        <name>fs.defaultFS</name>-->
+<!--        <value>hdfs://81.70.102.186:9000</value>-->
+<!--        <description>HDFS的URI，文件系统://namenode标识:端口号</description>-->
+<!--    </property>-->
+
+    <!--    <property>-->
+    <!--        <name>hadoop.tmp.dir</name>-->
+    <!--        <value>tmp</value>-->
+    <!--        <description>namenode上本地的hadoop临时文件夹</description>-->
+    <!--    </property>-->
+</configuration>
